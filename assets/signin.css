@@ -1,0 +1,29 @@
+label.error {
+	color: #a0302e;
+	background-color: lightblue;
+	border-color: lightblue;
+	padding: 1px 20px 1px 20px;
+	margin: 10px;
+}
+
+.form-container {
+	position: absolute;
+	top: 17vh;
+	background: #fff;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px #000;
+
+	border: 5px solid lightblue;
+}
+#heading {
+	font-size: 1.75rem;
+	font-weight: 400;
+}
+.alert-danger {
+	color: #a0302e;
+	background-color: lightblue;
+	border-color: lightblue;
+	padding: 1px 20px 1px 20px;
+	margin: 10px;
+}
